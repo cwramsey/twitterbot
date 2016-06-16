@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "A bot for Twitter. Will be developed iteratively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwramsey/twitterbot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cwramsey/twitterbot/issues"
+  },
+  "homepage": "https://github.com/cwramsey/twitterbot#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
